@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+    font-family: Verdana;
+}
+
+body {
+    background-color: black;
+    background-size: cover;
+    text-align: center;
+}
+
+#title {
+    color: white;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    margin: 40px auto;
+}
+
+#title-link {
+    color: aquamarine;
+    font-weight: normal;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+}
